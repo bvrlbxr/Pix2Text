@@ -7,7 +7,7 @@ Based on tesseract OCR: https://github.com/UB-Mannheim/tesseract/wiki
 
 Also uses pillow and clipboard libs
 ## Binaries
-In Windows, you can simply download .exe from Releases, there's no need to install tesseract.
+In Windows, you can simply download archive from packages, there's no need to install tesseract.
 ## How to use
 In Windows, run pix2text.exe.
 Then, use "Scissors" app (Win + Shift + s) and select area with text.
